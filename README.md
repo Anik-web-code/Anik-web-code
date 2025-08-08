@@ -57,9 +57,4 @@ I am a Full-Stack / Frontend web developer with experience building interactive 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anik-web-code)  
 
----
-
-### How to use  
-1. Create a repo **named exactly** `Anik-web-code`.  
-2. Save this as `README.md` in the root of that repo.  
-3. Commit & push — your profile will display this README automatically.  
+---  
